@@ -1,6 +1,6 @@
-# Bg_Model: Bandgap Prediction for Solid-State Materials
+# Bandgap_Model: Bandgap Prediction for Solid-State Materials
 
-Bg_Model is a Patolli-based framework for predicting bandgaps in crystalline (solid-state) materials and for exploring AI-driven approaches to accelerate materials discovery.  
+Bandgapg_Model is a Patolli-based framework for predicting bandgaps in crystalline (solid-state) materials and for exploring AI-driven approaches to accelerate materials discovery.  
 It combines classical machine learning and deep learning methods with extensive feature engineering and analysis, providing a versatile platform for predictive experimentation in materials science.
 
 
